@@ -1,0 +1,6 @@
+{
+  "name": "BSP Internet Banking Portal",
+  "description": "BSP Internet banking verification portal and administrative submission review system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
